@@ -7,10 +7,10 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/Main.unity
-    guid: f52da4a47ba36ea47a2a12dd693eb393
+    guid: e92c4267db38a2347916d0e763feb2d0
   - enabled: 1
     path: Assets/Scenes/Main_clone.unity
-    guid: e92c4267db38a2347916d0e763feb2d0
+    guid: c09635b1756aeca45a943a01d025de6f
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: e51bb15ba569cb348895f38b2c6d36e2, type: 2}
     com.unity.localization.settings: {fileID: 11400000, guid: 35eb02e86af287f4f90ac7b81292b45e, type: 2}
